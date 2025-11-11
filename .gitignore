@@ -1,0 +1,5 @@
+*.asv
+*.m~
+*.mlx.autosave
+.DS_Store
+Thumbs.db
